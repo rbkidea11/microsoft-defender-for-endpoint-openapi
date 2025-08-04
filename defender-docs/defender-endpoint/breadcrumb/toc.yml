@@ -1,0 +1,16 @@
+- name: 'Microsoft Defender'
+  tocHref: /defender/
+  topicHref: /defender/index
+  items:
+    - name: 'Microsoft Defender for Endpoint'
+      tocHref: /defender-endpoint/
+      topicHref: /defender-endpoint/index
+    - name: 'Microsoft Defender for Endpoint'
+      tocHref: /intune/intune-service/protect/
+      topicHref: /intune/intune-service/protect/
+    - name: 'Microsoft Defender for Endpoint'
+      tocHref: /defender-xdr/
+      topicHref: /defender-xdr/pilot-deploy-defender-endpoint
+    - name: 'Microsoft Defender for Endpoint'
+      tocHref: /defender-xdr/
+      topicHref: /defender-xdr/index

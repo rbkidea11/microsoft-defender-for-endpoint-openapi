@@ -1,0 +1,3 @@
+[submodule "defender-docs"]
+	path = defender-docs
+	url = https://github.com/MicrosoftDocs/defender-docs.git
