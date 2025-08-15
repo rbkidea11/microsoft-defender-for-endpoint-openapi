@@ -41,9 +41,9 @@ python3 -m json.tool openapi.json > /dev/null && echo "✅ Valid JSON" || echo "
 The OpenAPI specification includes tracking fields to record which Microsoft docs commit it's based on:
 
 ```json
-"x-microsoft-docs-commit": "b638ce17d127d2c83d4a7b81531c06fd4372c54c",
-"x-microsoft-docs-date": "2025-07-09T17:07:38Z",
-"x-microsoft-docs-url": "https://github.com/MicrosoftDocs/defender-docs/commit/b638ce17d127d2c83d4a7b81531c06fd4372c54c"
+"x-microsoft-docs-commit": "2396f29e7c01cbbc639be84c45e276c115de5f41",
+"x-microsoft-docs-date": "2025-08-06T07:31:11Z",
+"x-microsoft-docs-url": "https://github.com/MicrosoftDocs/defender-docs/commit/2396f29e7c01cbbc639be84c45e276c115de5f41"
 ```
 
 #### When to Update Tracking Fields
